@@ -11,8 +11,4 @@ layout: home
   <img src="images/edo.jpeg" width="24%" />
   <img src="images/joost.jpeg" width="24%" />
 </p>  
-<p float="left">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0C02bum2ANgf2X0NIWf7Ky?utm_source=generator" width="99%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
-
 
