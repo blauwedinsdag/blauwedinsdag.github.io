@@ -1,2 +1,3 @@
-# blauwedinsdag.github.io
-Blauwe Dinsdag web lab
+# Blauwe Dinsdag
+
+Blauwe Dinsdag's [web lab](blauwedinsdag.github.io)
