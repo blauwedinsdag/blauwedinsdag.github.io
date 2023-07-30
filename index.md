@@ -12,3 +12,7 @@ layout: home
   <img src="images/joost.jpeg" width="24%" />
 </p>  
 
+<p float="left">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5cyFdTRpQ5A4XsQZfAZ46w?utm_source=generator&theme=0" width="98%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</p>  
+
