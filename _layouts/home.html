@@ -22,7 +22,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+            {{ post.content | split: site.excerpt_separator | first }} <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">Lees meer...</a>        
         {%- endif -%}
       </li>
       {%- endfor -%}
