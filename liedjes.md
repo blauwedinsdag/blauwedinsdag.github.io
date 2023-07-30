@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liedjes
-permalink: /liedjes/
+# permalink: /liedjes/
 ---
 
 # Eigen werk 2023
