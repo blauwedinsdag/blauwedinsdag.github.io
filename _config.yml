@@ -21,12 +21,12 @@
 title: Blauwe Dinsdag
 email: blauwedinsdag@abbring.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Blauwe Dinsdag is een Nederlandstalige rockband uit Amsterdam.
+  Blauwe Dinsdag is een Nederlandstalige rockband uit Amsterdam
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+instagram_username: blauwedinsdag
 twitter_username: BlauweDinsdag
 github_username:  blauwedinsdag
-instagram_username: blauwedinsdag
 
 # Build settings
 theme: minima
