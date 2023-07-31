@@ -32,4 +32,4 @@ Wilko Bolt
 
 algemeen management, betalingsverkeer, techniek, reisleiding, foerage
 
-[blauwedinsdag@abbring.org](mailto:blauwedinsdag@abbring.org)
+[sul.management@xs4all.nl](mailto:sul.management@xs4all.nl)

@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Blauwe Dinsdag
-email: blauwedinsdag@abbring.org
+email: blauwedinsdag@xs4all.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbyambitie liedjes over natuurkunde en de liefde maakt
 baseurl: "" # the subpath of your site, e.g. /blog
