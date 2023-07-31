@@ -25,3 +25,16 @@ Voor de liefhebber heeft BD zijn vier nieuwe liedjes verstopt tussen andermans l
 <p float="left">
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0C02bum2ANgf2X0NIWf7Ky?utm_source=generator" width="99%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
+
+# Cassettebandjes
+
+#### PUFO (1998)
+![pufo]({% link images/chaos.jpg %})
+
+#### Subtiel (1996)
+![subtiel1]({% link images/subtiel1.jpg %})
+![subtiel2]({% link images/subtiel2.jpg %})
+
+#### Opperdoes (1995)
+
+![opperdoes]({% link images/opperdoes.jpg %})
