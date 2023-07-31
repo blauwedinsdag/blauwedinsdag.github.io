@@ -20,7 +20,7 @@ Van 12-14 mei 2023 nam BD vier nieuwe liedjes over natuurkunde en de liefde op i
 
 # Plagiaat 1991-2023
 
-Voor de liefhebber hebben we de vier nieuwe liedjes verstopt tussen de covers die BD de afgelopen drie decennia ten gehore bracht
+Voor de liefhebber heeft BD zijn vier nieuwe liedjes verstopt tussen andermans liedjes die BD de afgelopen drie decennia heeft nagespeeld
 
 <p float="left">
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0C02bum2ANgf2X0NIWf7Ky?utm_source=generator" width="99%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
