@@ -23,7 +23,7 @@ email: blauwedinsdag@xs4all.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbyambitie liedjes over natuurkunde en de liefde maakt
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blauwedinsdag.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: blauwedinsdag
 twitter_username: BlauweDinsdag
 github_username:  blauwedinsdag
