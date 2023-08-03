@@ -18,15 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+author: Klachten -> Edo Kulkens
 title: Blauwe Dinsdag
 email: blauwedinsdag@xs4all.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbyambitie liedjes over natuurkunde en de liefde maakt
+  Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbyambitie liedjes 
+  over natuurkunde en de liefde maakt
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: blauwedinsdag
 twitter_username: BlauweDinsdag
-github_username:  blauwedinsdag
+facebook_username: blauwe.dinsdag
+logo: "images/logo.jpeg"
+
 
 # Build settings
 theme: minima
