@@ -14,11 +14,14 @@ Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbieambitie liedjes ov
 </p>  
 
 Blauwe Dinsdag werd in 1991 opgericht door 
-Derrick Merkus (drums en achtergrondzang), 
-Edo Kulkens ([edo.kulkens@freeler.nl](mailto:edo.kulkens@freeler.nl), gitaar), 
-Jaap Abbring ([jaap@abbring.org](mailto:jaap@abbring.org), gitaar), 
-Joost  Siegman (bas en zang), 
-Wilko Bolt (gitaar) en Arno Lubrun (soort toetseninstrument). Al snel maakte Wilko promotie tot manager, hoogleraar betalingsverkeer, technicus, reisleider en foerageur en ging Arno op zoek naar een functie elders. 
+
+- Derrick Merkus ([derrick@blauwedinsdag.com](mailto:derrick@blauwedinsdag.com), drums en achtergrondzang), 
+- Edo Kulkens ([edo@blauwedinsdag.com](mailto:edo@blauwedinsdag.com), gitaar), 
+- Jaap Abbring ([jaap@blauwedinsdag.com](mailto:jaap@blauwedinsdag.com), gitaar), 
+- Joost  Siegman ([joost@blauwedinsdag.com](mailto:joostblauwedinsdag.com), bas en zang), 
+- Wilko Bolt ([wilko@blauwedinsdag.com](mailto:wilko@blauwedinsdag.com), gitaar) 
+
+en Arno Lubrun (soort toetseninstrument). Al snel maakte Wilko promotie tot manager, hoogleraar betalingsverkeer, technicus, reisleider en foerageur en ging Arno op zoek naar een functie elders. 
 
 Blauwe Dinsdag begon met het naspelen van andermans blues, grunge en alternatieve rock, maar schreef ook eigen, Nederlandstalige nummers. In het voorjaar van 2019 besloot Blauwe Dinsdag zich meer op eigen muziek te richten, met als voorlopig hoogtepunt [vier doorbraken op Spotify]({% link liedjes.md %}). 
 
@@ -30,6 +33,6 @@ Blauwe Dinsdag gaat al drie decennia bijna elk jaar een paar dagen op vakantie n
 
 Wilko Bolt
 
-algemeen management, betalingsverkeer, techniek, reisleiding, foerage
+_algemeen management, betalingsverkeer, techniek, reisleiding, foerage_
 
-[sul.management@xs4all.nl](mailto:sul.management@xs4all.nl)
+[sul.management@blauwedinsdag.com](mailto:sul.management@blauwedinsdag.com)
