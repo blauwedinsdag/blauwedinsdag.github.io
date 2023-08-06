@@ -36,6 +36,7 @@ logo: "images/logo.jpeg"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 show_excerpts: true
 excerpt_separator: <!--more-->
