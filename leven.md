@@ -6,13 +6,8 @@ title: Leven
 
 Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbieambitie liedjes over natuurkunde en de liefde maakt. 
 
- <p float="left">
-  <img src="images/derrick.jpeg" width="24%" />
-  <img src="images/edo.jpeg" width="24%" />
-  <img src="images/jaap.jpeg" width="24%" />
-  <img src="images/joost.jpeg" width="24%" />
-</p>  
-
+![100foto](images/100foto.jpg)
+ 
 Blauwe Dinsdag werd in 1991 opgericht door Derrick Merkus (drums en achtergrondzang), Edo Kulkens (gitaar), Jaap Abbring (gitaar), Joost  Siegman (bas en zang), Wilko Bolt (gitaar) en Arno Lubrun (soort toetseninstrument). Al snel maakte Wilko promotie tot manager, hoogleraar betalingsverkeer, technicus, reisleider en foerageur en ging Arno op zoek naar een functie elders. 
 
 Blauwe Dinsdag begon met het naspelen van andermans blues, grunge en alternatieve rock, maar schreef ook eigen, Nederlandstalige nummers. In het voorjaar van 2019 besloot Blauwe Dinsdag zich meer op eigen muziek te richten, met als voorlopig hoogtepunt [vier doorbraken op Spotify]({% link liedjes.md %}). 
