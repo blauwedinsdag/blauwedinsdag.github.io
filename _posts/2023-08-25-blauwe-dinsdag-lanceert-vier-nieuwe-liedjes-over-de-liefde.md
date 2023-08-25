@@ -14,9 +14,9 @@ Mocht u van een verzetje houden, dan kunt u onze nieuwe hits ook proberen te vin
 U bent een fantastisch publiek, dus we vertrouwen erop dat u de weg naar [Zoet En Zacht](https://ditto.fm/zoet-en-zacht), [Altijd Vooruit](https://ditto.fm/altijd-vooruit), [Schreeuwende Snaren](https://ditto.fm/schreeuwende-snaren) en [Soms](https://ditto.fm/soms-blauwe-dinsdag) hoe dan ook weet te vinden.
 
 <p float="left">
-  <img src="{% link images/grauwekat_zang.jpg %}" width="32.66%" />
-  <img src="{% link images/grauwekat_gitaar.jpg %}" width="32.66%" />
-  <img src="{% link images/grauwekat_drums2.jpg %}" width="32.66%" />
+  <img src="{% link images/grauwekat_zang.jpg %}" width="32.50%" />
+  <img src="{% link images/grauwekat_gitaar.jpg %}" width="32.50%" />
+  <img src="{% link images/grauwekat_drums2.jpg %}" width="32.50%" />
 </p>  
 
 
