@@ -40,6 +40,13 @@ plugins:
 show_excerpts: true
 excerpt_separator: <!--more-->
 
+header_pages:
+  - index.md
+  - leven.md
+  - liedjes.md
+  - podia.md
+  - museum.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
