@@ -4,7 +4,7 @@ title: Leven
 # permalink: /leven/
 ---
 
-Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbieambitie liedjes over natuurkunde en de liefde maakt. 
+Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbieambitie liedjes over de liefde maakt. 
 
 ![100foto](images/100foto.jpg)
  

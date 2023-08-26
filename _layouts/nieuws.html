@@ -2,13 +2,16 @@
 layout: default
 ---
 
-<div class="home">
+<div class="niews">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Laatste berichten" }}</h2>
     <ul class="post-list">
-      {%- for post in site.categories['nieuws'] limit:2 -%}
+      {%- for post in site.categories['nieuws'] -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -24,8 +27,8 @@ layout: default
       {%- endfor -%}
     </ul>
 
-
-    <p><a href="nieuws.html">Meer berichten</a></p>
+    <p class="rss-subscribe">Verzekert u van een stroom nieuws <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>
+
