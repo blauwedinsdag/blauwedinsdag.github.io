@@ -18,7 +18,7 @@ Van 12-14 mei 2023 nam BD vier nieuwe liedjes over de liefde op in [De Grauwe Ka
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1OeTBWLSSR1W5RY4aQBJ4S?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
 
-BD biedt [Zoet En Zacht](https://ditto.fm/zoet-en-zacht), [Altijd Vooruit](https://ditto.fm/altijd-vooruit), [Schreeuwende Snaren](https://ditto.fm/schreeuwende-snaren) en [Soms](https://ditto.fm/soms-blauwe-dinsdag) op elk denkbaar platform aan.
+BD biedt [Zoet En Zacht](https://ditto.fm/zoet-en-zacht), [Schreeuwende Snaren](https://ditto.fm/schreeuwende-snaren), [Altijd Vooruit](https://ditto.fm/altijd-vooruit) en [Soms](https://ditto.fm/soms-blauwe-dinsdag) op elk denkbaar platform aan.
 
 # Plagiaat 1991-2023
 

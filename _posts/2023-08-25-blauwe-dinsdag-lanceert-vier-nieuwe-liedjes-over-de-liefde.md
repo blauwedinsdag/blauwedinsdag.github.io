@@ -11,7 +11,7 @@ Mocht u van een verzetje houden, dan kunt u onze nieuwe hits ook proberen te vin
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0C02bum2ANgf2X0NIWf7Ky?utm_source=generator" width="99%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-U bent een fantastisch publiek, dus we vertrouwen erop dat u de weg naar [Zoet En Zacht](https://ditto.fm/zoet-en-zacht), [Altijd Vooruit](https://ditto.fm/altijd-vooruit), [Schreeuwende Snaren](https://ditto.fm/schreeuwende-snaren) en [Soms](https://ditto.fm/soms-blauwe-dinsdag) hoe dan ook weet te vinden.
+U bent een fantastisch publiek, dus we vertrouwen erop dat u de weg naar [Zoet En Zacht](https://ditto.fm/zoet-en-zacht), [Schreeuwende Snaren](https://ditto.fm/schreeuwende-snaren), [Altijd Vooruit](https://ditto.fm/altijd-vooruit) en [Soms](https://ditto.fm/soms-blauwe-dinsdag) hoe dan ook weet te vinden.
 
 <p float="left">
   <img src="{% link images/grauwekat_zang.jpg %}" width="32.50%" />
