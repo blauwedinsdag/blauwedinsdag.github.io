@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Thuis
 ---
  <p float="left">
   <img src="images/derrick.jpeg" width="24%" />

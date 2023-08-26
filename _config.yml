@@ -31,7 +31,6 @@ twitter_username: BlauweDinsdag
 facebook_username: blauwe.dinsdag
 logo: "images/logo.jpeg"
 
-
 # Build settings
 theme: minima
 plugins:
