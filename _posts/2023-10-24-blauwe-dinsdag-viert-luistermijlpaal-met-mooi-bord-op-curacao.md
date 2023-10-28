@@ -8,7 +8,7 @@ U blijft een fantastisch publiek! Immers, u heeft elk van de [vier laatste liedj
 kleinste, Zoet en Zacht, klonk, door algoritmische stroomversnelling, zelfs al 3199 keer in uw stulpen en bolides. 
 
 <p float="left">
-  <img src="{% link images/spotify20231028.jpg %}" width="99%" />
+  <a href="https://open.spotify.com/artist/5cyFdTRpQ5A4XsQZfAZ46w?si=gqjPZe-9QK2YO4DOwD_UEw"><img src="{% link images/spotify20231028.jpg %}" width="99%" /></a>
  </p>  
 
 Om deze mijlpaal luister bij te zetten heeft Blauwe Dinsdag een passend bord geplaatst bij de Chill Beach Bar & Grill op Curacao. 
