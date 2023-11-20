@@ -23,7 +23,7 @@ Blauwe Dinsdag maakte van de gelegenheid gebruik om in deze bakermat van de west
 </p>  
 
 
-_Deze studiereis is mogelijk gemaakt door Blauwe Dinsdags trouwe luisteraars in onder meer Los Angeles, Parijs, Londen, New York en Poplar, die Blauwe Dinsdags liedjes inmiddels tienduizend keer afspeelden. Spotify heeft Blauwe Dinsdag hiervoor rijkelijk beloond._
+_Deze studiereis werd mogelijk gemaakt door Blauwe Dinsdags trouwe luisteraars in onder meer Los Angeles, Parijs, Londen, New York en Poplar, die Blauwe Dinsdags liedjes inmiddels tienduizend keer hebben afgespeeld. Spotify heeft Blauwe Dinsdag hiervoor rijkelijk beloond._
 
 <p float="left">
   <img src="{% link images/athene_stromen.png %}" width="32%" />
