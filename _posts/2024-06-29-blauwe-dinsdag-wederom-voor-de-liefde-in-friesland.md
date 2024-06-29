@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Blauwe Dinsdag wederom voor de liefde in Friesland"
+categories: nieuws
+---
+Blauwe Dinsdag is voor het tweede jaar op rij in [Studiohotel De Grauwe Kat](https://studiohoteldegrauwekat.nl) in Friesland om, onder algemeen management van Wilko Bolt, liedjes over de liefde te maken. 
+<!--more-->
+
+<p float="left">
+  <img src="{% link images/grauwekat2_vertrek.jpg %}" width="99%" />
+</p>  
+
+We verwachten hiermee ons [liedjesaanbod op Spotify](https://open.spotify.com/artist/5cyFdTRpQ5A4XsQZfAZ46w?si=gqjPZe-9QK2YO4DOwD_UEw)  te verdubbelen en zo de bijkomende inkomstenstroom veilig te stellen.
+
+<p float="left">
+  <img src="{% link images/grauwekat2_jaap.jpg %}" width="99%" />
+</p>  
+<p float="left">
+  <img src="{% link images/grauwekat2_derrick.jpg %}" width="32%" />
+  <img src="{% link images/grauwekat2_jaapedo.jpg %}" width="32%" />
+  <img src="{% link images/grauwekat2_joost.jpg %}" width="32%" />
+</p>  
+
+Hoofd foerage Wilko Bolt probeert ondertussen, met de smakelijke inbreng van restaurant [Hong Kong](https://www.hongkongbolsward.nl) in Bolsward, de balans in het "dikkertje van de band" te verstoren. U hoort van ons!
+<p float="left">
+  <img src="{% link images/grauwekat2_wilko.jpg %}" width="99%" />
+</p>  
