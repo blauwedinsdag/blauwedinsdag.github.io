@@ -3,8 +3,9 @@ layout: post
 title:  "Blauwe Dinsdag wederom voor de liefde in Friesland"
 categories: nieuws
 ---
-Blauwe Dinsdag is voor het tweede jaar op rij in [Studiohotel De Grauwe Kat](https://studiohoteldegrauwekat.nl) in Friesland om, onder algemeen management van Wilko Bolt en Martijns muzikaal-technische leiding, liedjes over de liefde te maken. 
+Blauwe Dinsdag is voor het tweede jaar op rij in [Studiohotel De Grauwe Kat](https://studiohoteldegrauwekat.nl) in Friesland om, onder algemeen management van Wilko Bolt en Martijns muzikaal-technische leiding, 
 <!--more-->
+liedjes over de liefde te maken. 
 <p float="left">
   <img src="{% link images/grauwekat2_jaap.jpg %}" width="99%" />
 </p>  
