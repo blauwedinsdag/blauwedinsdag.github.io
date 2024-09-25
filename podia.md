@@ -4,7 +4,7 @@ title: Podia
 # permalink: /podia/
 ---
 
-# Zomer 2026 - 35 jaar Blauwe Dinsdag, The Jungle, Amsterdam 
+# 29 maart 2025 - Lanceerfeest, The Jungle, Amsterdam 
 # 2 juli 2022 - 30 jaar Blauwe Dinsdag, The Jungle, Amsterdam
 
 ![bd30]({% link images/bd30.jpg %})
