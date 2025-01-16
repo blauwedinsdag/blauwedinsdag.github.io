@@ -18,7 +18,7 @@ Van 28-30 juni 2024 nam BD vier nieuwe liedjes over twijfels, de zin van het bes
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0uGH1DpnItJYkFJH6KixR2?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
 
-BD biedt ook deze hits weer op elk denkbaar platform aan.
+BD biedt ook [Naar De Maan](https://ditto.fm/naar-de-maan), [Wat Je Ziet](https://ditto.fm/wat-je-ziet), [Ik ben Niet Bang](https://ditto.fm/ik-ben-niet-bang) en [Nog Een Liedje](https://ditto.fm/nog-een-liedje) op elk denkbaar platform aan.
 
 # Eigen werk 2023
 
