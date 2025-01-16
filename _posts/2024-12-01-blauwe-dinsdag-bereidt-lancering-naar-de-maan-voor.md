@@ -2,6 +2,7 @@
 layout: post
 title:  "Blauwe Dinsdag bereidt lancering naar de maan voor"
 categories: nieuws
+image: "{% link images/valencia_bol.jpeg %}"
 ---
 Blauwe Dinsdag heeft in Valencia bolvormige objecten onderzocht, ter voorbereiding op de lancering van Naar de Maan, een ode aan een mooie maar taaie relatie. 
 <!--more-->
