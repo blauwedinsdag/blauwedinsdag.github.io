@@ -14,7 +14,7 @@ Blauwe Dinsdag begon met het naspelen van andermans blues, grunge en alternatiev
 
 Blauwe Dinsdag [speelde op vage feestjes en in dito clubs]({% link podia.md %}), vooral in 1995, maar ook nog op 2 juli 2022 in de [Jungle](https://www.jungle.amsterdam) in Amsterdam. U was en bent een fantastisch publiek! BDs digitale [museum]({% link museum.md %}) zal in de toekomst al uw aan de geschiedenis van Blauwe Dinsdag gerelateerde informatiebehoeften bevredigen. 
 
-Blauwe Dinsdag gaat al drie decennia bijna elk jaar een paar dagen op vakantie naar een cultureel verantwoorde bestemming. In dat kader [bezocht BD in november 2023 de bakermat van de westerse beschaving]({% post_url 2023-11-20-blauwe-dinsdag-bezoekt-athene-om-spotifyaanbod-op-te-kalefateren %}), Athene.
+Blauwe Dinsdag gaat al dik drie decennia bijna elk jaar een paar dagen op vakantie naar een cultureel verantwoorde bestemming. In dat kader [bezocht BD in november 2023 de bakermat van de westerse beschaving]({% post_url 2023-11-20-blauwe-dinsdag-bezoekt-athene-om-spotifyaanbod-op-te-kalefateren %}), Athene, en [in november 2024 het thuis van de paella]({% post_url 2024-12-01-blauwe-dinsdag-bereidt-lancering-naar-de-maan-voor %}), Valencia
 
  <img src="images/wilko.jpeg" width="24%" /> 
 

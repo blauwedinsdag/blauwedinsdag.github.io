@@ -52,7 +52,7 @@ In de jaren negentig werd 100% hobbyambitie nog analoog op casseteband verspreid
 
 #### 1. Warm
 
-{% link audio/01 Warm.mp3 %}
+[test]({% link audio/01 Warm.mp3 %})
 
 #### 2. Onderweg
 
