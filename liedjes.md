@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Liedjes
 # permalink: /liedjes/
 ---
@@ -46,13 +46,76 @@ Voor de liefhebber heeft BD zijn acht laatste liedjes verstopt tussen andermans 
 
 # Cassettebandjes
 
-#### PUFO (1998)
+In de jaren negentig werd 100% hobbyambitie nog analoog op casseteband verspreid. Onze audiotechnische dienst heeft, ter lering en vermaak, een aantal van deze banden voor u opgekalefaterd.
+
+## PUFO (1998)
+
+#### 1. Warm
+
+{% link audio/01 Warm.mp3 %}
+
+#### 2. Onderweg
+
+{% link audio/02 Onderweg.mp3 %}
+
+#### 3. Mijn Schuilplaats
+
+{% link audio/03 Mijn schuilplaats.mp3 %}
+
+#### 4. Zo Ga Ik Door
+
+{% link audio/04 Zo ga ik door.mp3 %}
+
+#### 5. Eeuwig Bestaan
+
+{% link audio/05 Eeuwig bestaan.mp3 %}
+
 ![pufo]({% link images/chaos.jpg %})
 
-#### Subtiel (1996)
+## Subtiel (1996)
+
+#### 1. Later
+
+{% link audio/06 Later.mp3 %}
+
+#### 2. Te Hoog Gegrepen
+
+{% link audio/07 Te hoog gegrepen.mp3 %}
+
+#### 3. Zonder Jou
+
+{% link audio/08 Zonder jou.mp3 %}
+
+#### 4. Een Einde
+
+{% link audio/09 Een einde.mp3 %}
+
+#### 5. Licht In Het Donker
+
+{% link audio/10 Licht in het donker.mp3 %}
+
 ![subtiel1]({% link images/subtiel1.jpg %})
 ![subtiel2]({% link images/subtiel2.jpg %})
 
-#### Opperdoes (1995)
+## Opperdoes (1995)
+
+#### 1. Kijk Omhoog
+
+{% link audio/11 Kijk omhoog.mp3 %}
+
+#### 3. Minirokje
+
+{% link audio/12 Minirokje.mp3 %}
+
+#### 4. Remverliefd
+
+{% link audio/13 Remverliefd.mp3 %}
 
 ![opperdoes]({% link images/opperdoes.jpg %})
+
+## Rock Werchter (3,1452)
+
+#### 6. We Come Over You
+
+{% link audio/14 We come over you.mp3 %}
+
