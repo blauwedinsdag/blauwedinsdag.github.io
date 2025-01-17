@@ -113,7 +113,7 @@ In de jaren negentig werd 100% hobbyambitie nog analoog op casseteband verspreid
 
 ![opperdoes]({% link images/opperdoes.jpg %})
 
-## Rock Werchter (1966)
+## Rock Torhout (1966)
 
 #### 6. We Come Over You
 
