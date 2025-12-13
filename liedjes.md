@@ -4,6 +4,25 @@ title: Liedjes
 # permalink: /liedjes/
 ---
 
+# Eigen werk 2025
+
+Van 4-6 juli 2025 nam BD de laatste vijf liedjes van het beoogde album met de werktitel "ALLE 13 GOED! De hits van nu!" op in [De Grauwe Kat](https://studiohoteldegrauwekat.nl)
+
+<p float="left">
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4SzKcIgQwQFZVCjrM5sokv?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4hSlFjGtjwf4jJ9B9kRC4I?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/04akGQ0QKbluX9lckcByFC?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1PMPfBNy5Yo25J5ojqErSW?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/00C9MrxnELoo39HtwrtM9Z?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</p>
+
+BD biedt ook [In Het Vuur](https://ditto.fm/in-het-vuur), [Waar Is De Muziek](https://ditto.fm/waar-is-de-muziek), [Nu Ga Ik Los](https://ditto.fm/nu-ga-ik-los), [Dans Met Mij](https://ditto.fm/dans-met-mij) en [In Jouw Armen](https://ditto.fm/in-jouw-armen) weer op elk denkbaar platform aan.
+
+
 # Eigen werk 2024
 
 Van 28-30 juni 2024 nam BD vier nieuwe liedjes over twijfels, de zin van het bestaan en, zoals altijd, de liefde op in [De Grauwe Kat](https://studiohoteldegrauwekat.nl)
