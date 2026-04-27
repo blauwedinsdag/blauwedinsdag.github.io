@@ -4,6 +4,7 @@ title: Podia
 # permalink: /podia/
 ---
 
+# 30 mei 2026 - Albumpresentatie Schreeuwende Snaren, CREA, Amsterdam
 # 29 maart 2025 - Lanceerfeest, The Jungle, Amsterdam 
 # 2 juli 2022 - 30 jaar Blauwe Dinsdag, The Jungle, Amsterdam
 

@@ -4,6 +4,14 @@ title: Liedjes
 # permalink: /liedjes/
 ---
 
+# Schreeuwende Snaren 2026
+
+Op Koningsdag 2026 zag het eerste album van de Koninklijke BD, werktitel "ALLE 13 GOED! De hits van nu!", het licht onder de pakkende en blijvende titel "Schreeuwende Snaren"
+
+<p float="left">
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0hpriflp4Fn6A1JMz7HWQl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</p>
+
 # Eigen werk 2025
 
 Van 4-6 juli 2025 nam BD de laatste vijf liedjes van het beoogde album met de werktitel "ALLE 13 GOED! De hits van nu!" op in [De Grauwe Kat](https://studiohoteldegrauwekat.nl)
