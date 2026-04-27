@@ -4,12 +4,22 @@ title: Podia
 # permalink: /podia/
 ---
 
+<style>
+.no-bullets {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+</style>
+
 - 30 mei 2026 - Albumpresentatie Schreeuwende Snaren, CREA, Amsterdam
+{: .no-bullets}
 
 ![ss]({% link images/schreeuwende_snaren.jpeg %})
 
 - 29 maart 2025 - Lanceerfeest, The Jungle, Amsterdam 
 - 2 juli 2022 - 30 jaar Blauwe Dinsdag, The Jungle, Amsterdam
+{: .no-bullets}
 
 ![bd30]({% link images/bd30.jpg %})
 
@@ -60,3 +70,4 @@ title: Podia
 - 1993 - Kraketweekend, Groet
 - 1992 - Kraketweekend, Balk
 - 2 juni 1992 - Lenteoffensief, Sporthal Uilenstede, Amstelveen
+{: .no-bullets}
