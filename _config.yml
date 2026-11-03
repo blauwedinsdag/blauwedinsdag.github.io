@@ -18,7 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-author: Aanwijzingen en klachten →
+author:
+  name: Blauwe Dinsdag
+  type: Organization
+  url: https://blauwedinsdag.com
+contact_label: Aanwijzingen en klachten →
 title: Blauwe Dinsdag
 email: flipper@blauwedinsdag.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -28,7 +32,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blauwedinsdag.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: blauwedinsdag
 facebook_username: blauwe.dinsdag
-logo: "images/logo.jpeg"
+logo: "/images/logo.jpg"
+lang: nl
+locale: nl_NL
+
+# The SEO plugin uses this image unless a page supplies its own `image`.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/logoblaauw.jpg
+        alt: Blauwe Dinsdag — logo met dolfijn en gitaar
 
 # Build settings
 theme: minima
@@ -38,6 +53,14 @@ plugins:
 
 show_excerpts: true
 excerpt_separator: <!--more-->
+
+# Local preview tooling is not part of the published site.
+exclude:
+  - scripts/
+  - README.md
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
 
 header_pages:
   - index.md

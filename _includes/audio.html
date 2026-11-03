@@ -1,0 +1,8 @@
+{%- assign audio_url = include.src | relative_url | uri_escape -%}
+<div class="audio-player">
+  <audio controls preload="none" aria-label="{{ include.title | escape }}">
+    <source src="{{ audio_url }}" type="audio/mpeg">
+    Je browser ondersteunt deze audiospeler niet.
+  </audio>
+  <p><a href="{{ audio_url }}">Beluister {{ include.title | escape }} (MP3)</a></p>
+</div>

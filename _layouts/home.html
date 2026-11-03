@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="home">
+  <h1 class="visually-hidden">{{ site.title | escape }}</h1>
   {{ content }}
 
   {%- if site.posts.size > 0 -%}

@@ -8,5 +8,5 @@ Dit digitale museum zal in de toekomst al uw aan de geschiedenis van Blauwe Dins
 
 Suggesties voor en giften aan het museum → [curator@blauwedinsdag.com](mailto:curator@blauwedinsdag.com)
 
-![basementtapes]({% link images/basementtapes.jpeg %})
+<img src="{% link images/basementtapes.jpeg %}" alt="Historische groepsfoto van Blauwe Dinsdag in de repetitieruimte" width="571" height="388" style="height: auto;" />
 

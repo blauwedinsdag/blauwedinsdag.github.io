@@ -15,13 +15,13 @@ title: Podia
 - 30 mei 2026 - Albumpresentatie Schreeuwende Snaren, CREA, Amsterdam
 {: .no-bullets}
 
-![ss]({% link images/schreeuwende_snaren.jpeg %})
+<img src="{% link images/schreeuwende_snaren.jpeg %}" alt="Albumhoes van Schreeuwende Snaren" width="2048" height="2048" style="height: auto;" />
 
 - 29 maart 2025 - Lanceerfeest, The Jungle, Amsterdam 
 - 2 juli 2022 - 30 jaar Blauwe Dinsdag, The Jungle, Amsterdam
 {: .no-bullets}
 
-![bd30]({% link images/bd30.jpg %})
+<img src="{% link images/bd30.jpg %}" alt="Affiche voor het dertigjarig jubileum van Blauwe Dinsdag in Jungle Amsterdam op 2 juli 2022" width="724" height="1024" style="height: auto;" />
 
 - 12 januari 2019 - Huiskamerconcert, Zaaiersweg, Amsterdam
 - 31 oktober 2018 - Oratie Wilko, De Veranda, Amsterdam

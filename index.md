@@ -5,16 +5,17 @@
 layout: home
 title: Thuis
 ---
- <p float="left">
-  <img src="images/derrick.jpeg" width="24%" />
-  <img src="images/edo.jpeg" width="24%" />
-  <img src="images/jaap.jpeg" width="24%" />
-  <img src="images/joost.jpeg" width="24%" />
-  </p>
+ <div class="media-group">
+  <img src="images/derrick.jpeg" alt="Derrick Merkus achter het drumstel" width="946" height="2048" style="width: 24%; height: auto;" />
+  <img src="images/edo.jpeg" alt="Edo Kulkens met gitaar" width="946" height="2048" style="width: 24%; height: auto;" />
+  <img src="images/jaap.jpeg" alt="Jaap Abbring met gitaar" width="946" height="2048" style="width: 24%; height: auto;" />
+  <img src="images/joost.jpeg" alt="Joost Siegman zingt en speelt basgitaar" width="946" height="2048" style="width: 24%; height: auto;" />
+  </div>
+
   
- <p float="left">
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0hpriflp4Fn6A1JMz7HWQl?utm_source=generator&theme=0" width="98%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
+ <div class="media-group">
+{% include spotify.html type="album" id="0hpriflp4Fn6A1JMz7HWQl" title="Blauwe Dinsdag — Schreeuwende Snaren" height="352" width="98%" theme="0" %}
+</div>
 
  
  

@@ -1,148 +1,148 @@
 ---
-layout: default
+layout: page
 title: Liedjes
 # permalink: /liedjes/
 ---
 
-# Schreeuwende Snaren 2026
+## Schreeuwende Snaren 2026
 
 Op Koningsdag 2026 zag het eerste album van de Koninklijke BD, werktitel "ALLE 13 GOED! De hits van nu!", het licht onder de pakkende en blijvende titel "Schreeuwende Snaren"
 
-<p float="left">
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0hpriflp4Fn6A1JMz7HWQl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
+<div class="media-group">
+{% include spotify.html type="album" id="0hpriflp4Fn6A1JMz7HWQl" title="Blauwe Dinsdag — Schreeuwende Snaren" height="352" width="100%" theme="0" %}
+</div>
 
-# Eigen werk 2025
+## Eigen werk 2025
 
 Van 4-6 juli 2025 nam BD de laatste vijf liedjes van het beoogde album met de werktitel "ALLE 13 GOED! De hits van nu!" op in [De Grauwe Kat](https://studiohoteldegrauwekat.nl)
 
-<p float="left">
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4SzKcIgQwQFZVCjrM5sokv?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="media-group">
+{% include spotify.html type="track" id="4SzKcIgQwQFZVCjrM5sokv" title="Blauwe Dinsdag — eigen werk 2025, speler 1" height="100" width="100%" %}
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4hSlFjGtjwf4jJ9B9kRC4I?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include spotify.html type="track" id="4hSlFjGtjwf4jJ9B9kRC4I" title="Blauwe Dinsdag — eigen werk 2025, speler 2" height="100" width="100%" %}
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/04akGQ0QKbluX9lckcByFC?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include spotify.html type="track" id="04akGQ0QKbluX9lckcByFC" title="Blauwe Dinsdag — eigen werk 2025, speler 3" height="100" width="100%" %}
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1PMPfBNy5Yo25J5ojqErSW?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include spotify.html type="track" id="1PMPfBNy5Yo25J5ojqErSW" title="Blauwe Dinsdag — eigen werk 2025, speler 4" height="100" width="100%" %}
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/00C9MrxnELoo39HtwrtM9Z?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
+{% include spotify.html type="track" id="00C9MrxnELoo39HtwrtM9Z" title="Blauwe Dinsdag — eigen werk 2025, speler 5" height="100" width="100%" %}
+</div>
 
 BD biedt ook [In Het Vuur](https://ditto.fm/in-het-vuur), [Waar Is De Muziek](https://ditto.fm/waar-is-de-muziek), [Nu Ga Ik Los](https://ditto.fm/nu-ga-ik-los), [Dans Met Mij](https://ditto.fm/dans-met-mij) en [In Jouw Armen](https://ditto.fm/in-jouw-armen) weer op elk denkbaar platform aan.
 
 
-# Eigen werk 2024
+## Eigen werk 2024
 
 Van 28-30 juni 2024 nam BD vier nieuwe liedjes over twijfels, de zin van het bestaan en, zoals altijd, de liefde op in [De Grauwe Kat](https://studiohoteldegrauwekat.nl)
 
-<p float="left">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/24nBNXgYg7Rs4PZTa95cAi?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="media-group">
+{% include spotify.html type="track" id="24nBNXgYg7Rs4PZTa95cAi" title="Blauwe Dinsdag — eigen werk 2024, speler 1" height="100" width="100%" %}
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6H18g5kNyfQ5z14shfn9RO?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include spotify.html type="track" id="6H18g5kNyfQ5z14shfn9RO" title="Blauwe Dinsdag — eigen werk 2024, speler 2" height="100" width="100%" %}
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4BHHTDt2nAEcb1pRvDWNxt?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include spotify.html type="track" id="4BHHTDt2nAEcb1pRvDWNxt" title="Blauwe Dinsdag — eigen werk 2024, speler 3" height="100" width="100%" %}
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0uGH1DpnItJYkFJH6KixR2?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
+{% include spotify.html type="track" id="0uGH1DpnItJYkFJH6KixR2" title="Blauwe Dinsdag — eigen werk 2024, speler 4" height="100" width="100%" %}
+</div>
 
 BD biedt ook [Naar De Maan](https://ditto.fm/naar-de-maan), [Wat Je Ziet](https://ditto.fm/wat-je-ziet), [Ik Ben Niet Bang](https://ditto.fm/ik-ben-niet-bang) en [Nog Een Liedje](https://ditto.fm/nog-een-liedje) op elk denkbaar platform aan.
 
-# Eigen werk 2023
+## Eigen werk 2023
 
 Van 12-14 mei 2023 nam BD vier nieuwe liedjes over de liefde op in [De Grauwe Kat](https://studiohoteldegrauwekat.nl)
 
-<p float="left">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0d7aJb2EaVYB0udyoNr7WJ?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="media-group">
+{% include spotify.html type="track" id="0d7aJb2EaVYB0udyoNr7WJ" title="Blauwe Dinsdag — eigen werk 2023, speler 1" height="100" width="100%" %}
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2KUYhRa48LbMP7bqZHWvPL?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include spotify.html type="track" id="2KUYhRa48LbMP7bqZHWvPL" title="Blauwe Dinsdag — eigen werk 2023, speler 2" height="100" width="100%" %}
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1OyCC3RhyLhhzqc76ShyaL?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include spotify.html type="track" id="1OyCC3RhyLhhzqc76ShyaL" title="Blauwe Dinsdag — eigen werk 2023, speler 3" height="100" width="100%" %}
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1OeTBWLSSR1W5RY4aQBJ4S?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
+{% include spotify.html type="track" id="1OeTBWLSSR1W5RY4aQBJ4S" title="Blauwe Dinsdag — eigen werk 2023, speler 4" height="100" width="100%" %}
+</div>
 
 BD biedt [Zoet En Zacht](https://ditto.fm/zoet-en-zacht), [Schreeuwende Snaren](https://ditto.fm/schreeuwende-snaren), [Altijd Vooruit](https://ditto.fm/altijd-vooruit) en [Soms](https://ditto.fm/soms-blauwe-dinsdag) op elk denkbaar platform aan.
 
-# Plagiaat 1991-2023
+## Plagiaat 1991-2023
 
 Voor de liefhebber heeft BD zijn acht laatste liedjes verstopt tussen andermans liedjes die BD de afgelopen decennia heeft nagespeeld
 
-<p float="left">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0C02bum2ANgf2X0NIWf7Ky?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
+<div class="media-group">
+  {% include spotify.html type="playlist" id="0C02bum2ANgf2X0NIWf7Ky" title="Blauwe Dinsdag — eigen werk en inspiratie" height="100" width="100%" %}
+</div>
 
-# Cassettebandjes
+## Cassettebandjes
 
 In de jaren negentig werd 100% hobbyambitie nog analoog op casseteband verspreid. Onze audiotechnische dienst heeft, ter lering en vermaak, een aantal van deze banden voor u opgekalefaterd.
 
-## PUFO (1998)
+### PUFO (1998)
 
 #### 1. Warm
 
-{% link audio/01 Warm.mp3 %}
+{% include audio.html src="/audio/01 Warm.mp3" title="Warm" %}
 
 #### 2. Onderweg
 
-{% link audio/02 Onderweg.mp3 %}
+{% include audio.html src="/audio/02 Onderweg.mp3" title="Onderweg" %}
 
 #### 3. Mijn Schuilplaats
 
-{% link audio/03 Mijn schuilplaats.mp3 %}
+{% include audio.html src="/audio/03 Mijn schuilplaats.mp3" title="Mijn Schuilplaats" %}
 
 #### 4. Zo Ga Ik Door
 
-{% link audio/04 Zo ga ik door.mp3 %}
+{% include audio.html src="/audio/04 Zo ga ik door.mp3" title="Zo Ga Ik Door" %}
 
 #### 5. Eeuwig Bestaan
 
-{% link audio/05 Eeuwig bestaan.mp3 %}
+{% include audio.html src="/audio/05 Eeuwig bestaan.mp3" title="Eeuwig Bestaan" %}
 
-![pufo]({% link images/chaos.jpg %})
+<img src="{% link images/chaos.jpg %}" alt="Oud webpagina-overzicht van Blauwe Dinsdag met informatie over PUFO" width="791" height="1091" style="height: auto;" />
 
-## Subtiel (1996)
+### Subtiel (1996)
 
 #### 1. Later
 
-{% link audio/06 Later.mp3 %}
+{% include audio.html src="/audio/06 Later.mp3" title="Later" %}
 
 #### 2. Te Hoog Gegrepen
 
-{% link audio/07 Te hoog gegrepen.mp3 %}
+{% include audio.html src="/audio/07 Te hoog gegrepen.mp3" title="Te Hoog Gegrepen" %}
 
 #### 3. Zonder Jou
 
-{% link audio/08 Zonder jou.mp3 %}
+{% include audio.html src="/audio/08 Zonder jou.mp3" title="Zonder Jou" %}
 
 #### 4. Een Einde
 
-{% link audio/09 Een einde.mp3 %}
+{% include audio.html src="/audio/09 Een einde.mp3" title="Een Einde" %}
 
 #### 5. Licht In Het Donker
 
-{% link audio/10 Licht in het donker.mp3 %}
+{% include audio.html src="/audio/10 Licht in het donker.mp3" title="Licht In Het Donker" %}
 
-![subtiel1]({% link images/subtiel1.jpg %})
-![subtiel2]({% link images/subtiel2.jpg %})
+<img src="{% link images/subtiel1.jpg %}" alt="Cassettehoes en tracklijst van Subtiel uit 1996" width="1104" height="405" style="height: auto;" />
+<img src="{% link images/subtiel2.jpg %}" alt="Binnenzijde van het cassetteboekje van Subtiel met liedteksten" width="1108" height="405" style="height: auto;" />
 
-## Opperdoes (1995)
+### Opperdoes (1995)
 
 #### 1. Kijk Omhoog
 
-{% link audio/11 Kijk omhoog.mp3 %}
+{% include audio.html src="/audio/11 Kijk omhoog.mp3" title="Kijk Omhoog" %}
 
 #### 3. Minirokje
 
-{% link audio/12 Minirokje.mp3 %}
+{% include audio.html src="/audio/12 Minirokje.mp3" title="Minirokje" %}
 
 #### 4. Remverliefd
 
-{% link audio/13 Remverliefd.mp3 %}
+{% include audio.html src="/audio/13 Remverliefd.mp3" title="Remverliefd" %}
 
-![opperdoes]({% link images/opperdoes.jpg %})
+<img src="{% link images/opperdoes.jpg %}" alt="Cassettehoes van Opperdoes uit 1995" width="659" height="400" style="height: auto;" />
 
-## Rock Torhout (1966)
+### Rock Torhout (1966)
 
 #### 6. We Come Over You
 
-{% link audio/14 We come over you.mp3 %}
+{% include audio.html src="/audio/14 We come over you.mp3" title="We Come Over You" %}
 
