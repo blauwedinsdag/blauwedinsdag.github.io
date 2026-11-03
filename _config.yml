@@ -61,6 +61,14 @@ exclude:
   - vendor/
   - Gemfile
   - Gemfile.lock
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - tests/
+  - test-results/
+  - playwright-report/
+  - playwright.config.mjs
+  - .check-site/
 
 header_pages:
   - index.md

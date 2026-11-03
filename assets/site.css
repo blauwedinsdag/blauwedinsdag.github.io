@@ -1,0 +1,100 @@
+.skip-link {
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  z-index: 100;
+  padding: .75rem 1rem;
+  background: #fff;
+  color: #111;
+  border: 2px solid currentColor;
+  transform: translateY(-150%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+.audio-player audio {
+  max-width: 100%;
+}
+
+.media-group {
+  margin-bottom: 15px;
+  display: grid;
+  gap: 15px;
+}
+
+/* Keep photo rows readable on narrow screens without changing the theme. */
+.photo-grid {
+  display: grid;
+  gap: 12px;
+  align-items: start;
+}
+
+.photo-grid--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.photo-grid--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.photo-grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+
+picture { display: block; }
+img { max-width: 100%; height: auto; }
+.photo-grid img { display: block; width: 100%; }
+.manager-portrait { width: 24%; }
+
+.spotify-player {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border: 0;
+  border-radius: 12px;
+}
+
+.no-bullets { list-style: none; margin-left: 0; padding-left: 0; }
+.error-page { margin: 10px auto; max-width: 600px; text-align: center; }
+.error-page h1 { margin: 30px 0; font-size: 4em; line-height: 1; letter-spacing: -1px; }
+
+/* Minima's muted text needs more contrast against white. */
+.post-meta, .footer-col-wrapper { color: #666; }
+a { color: #1756a9; }
+a:visited { color: #5b3c88; }
+.page-content a:not(.post-link) {
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+
+@media screen and (max-width: 600px) {
+  .photo-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .manager-portrait { width: 40%; }
+  .page-content, .site-footer { overflow-wrap: anywhere; }
+}
+
+@media screen and (max-width: 420px) {
+  .photo-grid:not(.portraits) { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* Minima hides the mobile menu checkbox; keep it reachable by keyboard. */
+@media screen and (max-width: 600px) {
+  .site-nav .nav-trigger {
+    display: block;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+  }
+
+  .nav-trigger:focus-visible + label {
+    outline: 2px solid #111;
+    outline-offset: 2px;
+  }
+}

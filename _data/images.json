@@ -1,0 +1,1608 @@
+{
+  "/images/100foto.jpg": {
+    "width": 721,
+    "height": 255,
+    "sha256": "39561517e72212af1023982ee9cdc20f23799e930e96dbeefa9a0dc47860852a",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/100foto-jpg-320.webp",
+        "bytes": 10606
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/100foto-jpg-640.webp",
+        "bytes": 45336
+      },
+      {
+        "width": 721,
+        "url": "/images/optimized/100foto-jpg-721.webp",
+        "bytes": 66030
+      }
+    ]
+  },
+  "/images/alledertien.jpeg": {
+    "width": 2048,
+    "height": 1536,
+    "sha256": "e9f25333b722835faff328d52f81ff9766a172f69eccecdae045b30e91f8c499",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/alledertien-jpeg-320.webp",
+        "bytes": 11098
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/alledertien-jpeg-640.webp",
+        "bytes": 33116
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/alledertien-jpeg-960.webp",
+        "bytes": 82052
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/alledertien-jpeg-1440.webp",
+        "bytes": 180246
+      }
+    ]
+  },
+  "/images/athene_koukaki.jpeg": {
+    "width": 1024,
+    "height": 768,
+    "sha256": "4cc630bdc423b2ae61b16fc8fd39a6a99f756ee4082bc2ad9a6caf4b3e5fb831",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/athene_koukaki-jpeg-320.webp",
+        "bytes": 24166
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/athene_koukaki-jpeg-640.webp",
+        "bytes": 85274
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/athene_koukaki-jpeg-960.webp",
+        "bytes": 166932
+      },
+      {
+        "width": 1024,
+        "url": "/images/optimized/athene_koukaki-jpeg-1024.webp",
+        "bytes": 186760
+      }
+    ]
+  },
+  "/images/athene_landen.png": {
+    "width": 1748,
+    "height": 904,
+    "sha256": "ca1b52757ca2de2f644c76db141ab016d70845b0dd98ad91e84b714e8c4b103c",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/athene_landen-png-320.webp",
+        "bytes": 17160
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/athene_landen-png-640.webp",
+        "bytes": 46408
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/athene_landen-png-960.webp",
+        "bytes": 82162
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/athene_landen-png-1440.webp",
+        "bytes": 156016
+      }
+    ]
+  },
+  "/images/athene_panathinaiko.jpeg": {
+    "width": 768,
+    "height": 1024,
+    "sha256": "cb8346a35e7915765b10ddaa3bd7f175bdca9ee07b1f59082582b1d56506e80a",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/athene_panathinaiko-jpeg-320.webp",
+        "bytes": 22238
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/athene_panathinaiko-jpeg-640.webp",
+        "bytes": 86048
+      },
+      {
+        "width": 768,
+        "url": "/images/optimized/athene_panathinaiko-jpeg-768.webp",
+        "bytes": 122868
+      }
+    ]
+  },
+  "/images/athene_parthenon.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "sha256": "6b7796d75a361e94e2154b62d4080a8a1b9cac9884b7c4646deec42d884d3dc5",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/athene_parthenon-jpg-320.webp",
+        "bytes": 16704
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/athene_parthenon-jpg-640.webp",
+        "bytes": 56760
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/athene_parthenon-jpg-960.webp",
+        "bytes": 116704
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/athene_parthenon-jpg-1440.webp",
+        "bytes": 233080
+      }
+    ]
+  },
+  "/images/athene_parthenon2.jpeg": {
+    "width": 1024,
+    "height": 768,
+    "sha256": "d58b50424f131755ad00aa738de3282555c1fa6559606a8e03113cd23408f1cb",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/athene_parthenon2-jpeg-320.webp",
+        "bytes": 17104
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/athene_parthenon2-jpeg-640.webp",
+        "bytes": 55596
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/athene_parthenon2-jpeg-960.webp",
+        "bytes": 104552
+      },
+      {
+        "width": 1024,
+        "url": "/images/optimized/athene_parthenon2-jpeg-1024.webp",
+        "bytes": 118894
+      }
+    ]
+  },
+  "/images/athene_prasinitenta.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "6681233704cc780559e09ee05d2f55d91b6fe09fdd7e6789b168849bab192c64",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/athene_prasinitenta-jpeg-320.webp",
+        "bytes": 22222
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/athene_prasinitenta-jpeg-640.webp",
+        "bytes": 82758
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/athene_prasinitenta-jpeg-960.webp",
+        "bytes": 171496
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/athene_prasinitenta-jpeg-1440.webp",
+        "bytes": 327930
+      }
+    ]
+  },
+  "/images/athene_steden.png": {
+    "width": 1000,
+    "height": 1400,
+    "sha256": "0979a0a8f8f52254750bc4e54daf7a01cee8fc887b1efa434c777dab5fc1f6d7",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/athene_steden-png-320.webp",
+        "bytes": 9876
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/athene_steden-png-640.webp",
+        "bytes": 25926
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/athene_steden-png-960.webp",
+        "bytes": 42674
+      },
+      {
+        "width": 1000,
+        "url": "/images/optimized/athene_steden-png-1000.webp",
+        "bytes": 16886
+      }
+    ]
+  },
+  "/images/athene_stromen.png": {
+    "width": 616,
+    "height": 860,
+    "sha256": "0f355ab8ef92e374fdc36ce520b5ee3dfb0b88412be97b50d96a7ff90c0af09d",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/athene_stromen-png-320.webp",
+        "bytes": 16876
+      },
+      {
+        "width": 616,
+        "url": "/images/optimized/athene_stromen-png-616.webp",
+        "bytes": 16948
+      }
+    ]
+  },
+  "/images/basementtapes.jpeg": {
+    "width": 571,
+    "height": 388,
+    "sha256": "b87512a3ece459bb0758520c84a34b19bd4ecfcb246e4337371b10783ff20ed6",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/basementtapes-jpeg-320.webp",
+        "bytes": 9500
+      },
+      {
+        "width": 571,
+        "url": "/images/optimized/basementtapes-jpeg-571.webp",
+        "bytes": 21662
+      }
+    ]
+  },
+  "/images/bd30.jpg": {
+    "width": 724,
+    "height": 1024,
+    "sha256": "2909e33a22595fc0ca59aabd55c97c1120b720998bf0d7e4862ede637b40798e",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/bd30-jpg-320.webp",
+        "bytes": 25710
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/bd30-jpg-640.webp",
+        "bytes": 60680
+      },
+      {
+        "width": 724,
+        "url": "/images/optimized/bd30-jpg-724.webp",
+        "bytes": 72396
+      }
+    ]
+  },
+  "/images/cavia.jpeg": {
+    "width": 1024,
+    "height": 1024,
+    "sha256": "ce13dc60e02eec9d633a6edc0eb8f02a1cbfcc930789ec21884c08582934cb20",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/cavia-jpeg-320.webp",
+        "bytes": 16396
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/cavia-jpeg-640.webp",
+        "bytes": 48942
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/cavia-jpeg-960.webp",
+        "bytes": 98092
+      },
+      {
+        "width": 1024,
+        "url": "/images/optimized/cavia-jpeg-1024.webp",
+        "bytes": 114264
+      }
+    ]
+  },
+  "/images/chaos.jpg": {
+    "width": 791,
+    "height": 1091,
+    "sha256": "5caa1b0d62810d578ca772892cb6799ef755fdd557e77f0774d77a48bf0712dc",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/chaos-jpg-320.webp",
+        "bytes": 32412
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/chaos-jpg-640.webp",
+        "bytes": 105078
+      },
+      {
+        "width": 791,
+        "url": "/images/optimized/chaos-jpg-791.webp",
+        "bytes": 148676
+      }
+    ]
+  },
+  "/images/chill.jpeg": {
+    "width": 1536,
+    "height": 2048,
+    "sha256": "d3ddb9a3df9f0d70bdd2ba8fc764e172c8fece4a4390812af81953e14ab19a87",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/chill-jpeg-320.webp",
+        "bytes": 46970
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/chill-jpeg-640.webp",
+        "bytes": 157456
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/chill-jpeg-960.webp",
+        "bytes": 296416
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/chill-jpeg-1440.webp",
+        "bytes": 524852
+      }
+    ]
+  },
+  "/images/curacao.jpg": {
+    "width": 1274,
+    "height": 1132,
+    "sha256": "8a86578eecb28e9aa5baf7a87875cb752b147e03e0ca4f70c1348a98085c77b5",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/curacao-jpg-320.webp",
+        "bytes": 4486
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/curacao-jpg-640.webp",
+        "bytes": 13636
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/curacao-jpg-960.webp",
+        "bytes": 23802
+      },
+      {
+        "width": 1274,
+        "url": "/images/optimized/curacao-jpg-1274.webp",
+        "bytes": 34182
+      }
+    ]
+  },
+  "/images/derrick.jpeg": {
+    "width": 946,
+    "height": 2048,
+    "sha256": "68349821adef9134ead2cf06edc4a029599b30409c3198139078583e5ad73fca",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/derrick-jpeg-320.webp",
+        "bytes": 10532
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/derrick-jpeg-640.webp",
+        "bytes": 23172
+      },
+      {
+        "width": 946,
+        "url": "/images/optimized/derrick-jpeg-946.webp",
+        "bytes": 38820
+      }
+    ]
+  },
+  "/images/edo.jpeg": {
+    "width": 946,
+    "height": 2048,
+    "sha256": "6fc5acf2898f33ad4613a6026a5fe75ddce1017e72b9a323018f8d77be183d3c",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/edo-jpeg-320.webp",
+        "bytes": 20566
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/edo-jpeg-640.webp",
+        "bytes": 43372
+      },
+      {
+        "width": 946,
+        "url": "/images/optimized/edo-jpeg-946.webp",
+        "bytes": 69958
+      }
+    ]
+  },
+  "/images/flipper.png": {
+    "width": 200,
+    "height": 200,
+    "sha256": "3a12589275151c8656dd21f979bd4932b0535457ac1eb5e1c142c4394ca9e122",
+    "variants": [
+      {
+        "width": 200,
+        "url": "/images/optimized/flipper-png-200.webp",
+        "bytes": 1858
+      }
+    ]
+  },
+  "/images/grauwekat2_derrick.jpg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "e9a2b11addad7e08c105c3aa6077caae51f09e3666f3370f3b9ac641bf0fdca9",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat2_derrick-jpg-320.webp",
+        "bytes": 30506
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat2_derrick-jpg-640.webp",
+        "bytes": 102958
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat2_derrick-jpg-960.webp",
+        "bytes": 195256
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/grauwekat2_derrick-jpg-1200.webp",
+        "bytes": 280348
+      }
+    ]
+  },
+  "/images/grauwekat2_foerage.jpg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "b77186a1ee02720b490b3d5c1b8374797ba5ba01eea88b4e6baa289889f9181a",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat2_foerage-jpg-320.webp",
+        "bytes": 22224
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat2_foerage-jpg-640.webp",
+        "bytes": 80272
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat2_foerage-jpg-960.webp",
+        "bytes": 165992
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat2_foerage-jpg-1440.webp",
+        "bytes": 319728
+      }
+    ]
+  },
+  "/images/grauwekat2_jaap.jpg": {
+    "width": 2048,
+    "height": 1152,
+    "sha256": "1fce4dac04561193f3f15fba57f285595921871d99c2eb282d771f24b1997803",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat2_jaap-jpg-320.webp",
+        "bytes": 8080
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat2_jaap-jpg-640.webp",
+        "bytes": 28538
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat2_jaap-jpg-960.webp",
+        "bytes": 71916
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat2_jaap-jpg-1440.webp",
+        "bytes": 157084
+      }
+    ]
+  },
+  "/images/grauwekat2_jaapedo.jpg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "f68cca39a328e4f0b3223bbe366daa9256a8724e3f4912a85e3eb83102e3caca",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat2_jaapedo-jpg-320.webp",
+        "bytes": 28268
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat2_jaapedo-jpg-640.webp",
+        "bytes": 96300
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat2_jaapedo-jpg-960.webp",
+        "bytes": 185974
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/grauwekat2_jaapedo-jpg-1200.webp",
+        "bytes": 264290
+      }
+    ]
+  },
+  "/images/grauwekat2_joost.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "sha256": "b454989ae6d8d5e520ed8c70fb11166f04239ce368b0eced90240fbccce6d05a",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat2_joost-jpg-320.webp",
+        "bytes": 22770
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat2_joost-jpg-640.webp",
+        "bytes": 74584
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat2_joost-jpg-960.webp",
+        "bytes": 154296
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat2_joost-jpg-1440.webp",
+        "bytes": 285218
+      }
+    ]
+  },
+  "/images/grauwekat3_alle13goed1.jpeg": {
+    "width": 408,
+    "height": 410,
+    "sha256": "8a4980b861456f99ebf07b8ab6e0998322fa1971f3ade294205b3d424b11f6eb",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat3_alle13goed1-jpeg-320.webp",
+        "bytes": 25716
+      },
+      {
+        "width": 408,
+        "url": "/images/optimized/grauwekat3_alle13goed1-jpeg-408.webp",
+        "bytes": 37718
+      }
+    ]
+  },
+  "/images/grauwekat3_alle13goed2.jpeg": {
+    "width": 126,
+    "height": 127,
+    "sha256": "acef4307fb318df1abf636ac3ca8b66f784c84bdef4364710d004979a060f1d8",
+    "variants": [
+      {
+        "width": 126,
+        "url": "/images/optimized/grauwekat3_alle13goed2-jpeg-126.webp",
+        "bytes": 3068
+      }
+    ]
+  },
+  "/images/grauwekat3_alle13goed3.jpeg": {
+    "width": 411,
+    "height": 410,
+    "sha256": "fc28fa3e8c90475088f75df165aea943f9e3955f763226fc05507bb3a8c3acb7",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat3_alle13goed3-jpeg-320.webp",
+        "bytes": 16248
+      },
+      {
+        "width": 411,
+        "url": "/images/optimized/grauwekat3_alle13goed3-jpeg-411.webp",
+        "bytes": 24682
+      }
+    ]
+  },
+  "/images/grauwekat3_derrick.jpeg": {
+    "width": 1536,
+    "height": 2048,
+    "sha256": "e479be0c1184e49a0a6bd27e2b52bf7cb6848e18898c85318502e44d827fbc6f",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat3_derrick-jpeg-320.webp",
+        "bytes": 16964
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat3_derrick-jpeg-640.webp",
+        "bytes": 47028
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat3_derrick-jpeg-960.webp",
+        "bytes": 106046
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat3_derrick-jpeg-1440.webp",
+        "bytes": 215988
+      }
+    ]
+  },
+  "/images/grauwekat3_drums.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "ef3b0104322e3f0b5cc0ed11f27bcd3a785f68bb91aecae8922620ec1fb918b7",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat3_drums-jpeg-320.webp",
+        "bytes": 11734
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat3_drums-jpeg-640.webp",
+        "bytes": 35020
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat3_drums-jpeg-960.webp",
+        "bytes": 64312
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat3_drums-jpeg-1440.webp",
+        "bytes": 114734
+      }
+    ]
+  },
+  "/images/grauwekat3_foerage.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "998ff042e704f399494fa3753f678142c601268cd86c4782675d411f9c235c41",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat3_foerage-jpeg-320.webp",
+        "bytes": 21058
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat3_foerage-jpeg-640.webp",
+        "bytes": 72042
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat3_foerage-jpeg-960.webp",
+        "bytes": 137472
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat3_foerage-jpeg-1440.webp",
+        "bytes": 242648
+      }
+    ]
+  },
+  "/images/grauwekat_bas.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "sha256": "166bbec02b8f1c2ae090765d513c9c553f31ac8c3d88b12f3621b63d7c3f8796",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_bas-jpg-320.webp",
+        "bytes": 21556
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_bas-jpg-640.webp",
+        "bytes": 57668
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat_bas-jpg-960.webp",
+        "bytes": 98566
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat_bas-jpg-1440.webp",
+        "bytes": 166436
+      }
+    ]
+  },
+  "/images/grauwekat_buiten.jpg": {
+    "width": 768,
+    "height": 1024,
+    "sha256": "375fbd14bb7ee1237fa4b270de59b71441b8eb287c559cdabf984cff8d3bea3d",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_buiten-jpg-320.webp",
+        "bytes": 42220
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_buiten-jpg-640.webp",
+        "bytes": 173514
+      },
+      {
+        "width": 768,
+        "url": "/images/optimized/grauwekat_buiten-jpg-768.webp",
+        "bytes": 246334
+      }
+    ]
+  },
+  "/images/grauwekat_drums.jpg": {
+    "width": 768,
+    "height": 1024,
+    "sha256": "2491b3df12e9a25096a9c1af4249dd3c1d492e71c54beac4b80da0de5b3d7647",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_drums-jpg-320.webp",
+        "bytes": 27002
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_drums-jpg-640.webp",
+        "bytes": 82602
+      },
+      {
+        "width": 768,
+        "url": "/images/optimized/grauwekat_drums-jpg-768.webp",
+        "bytes": 109538
+      }
+    ]
+  },
+  "/images/grauwekat_drums2.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "sha256": "0cb0a0606d3e10fa437ca3f2e503a1f870ad104d1205294688e7bdbaeb65ecb9",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_drums2-jpg-320.webp",
+        "bytes": 17126
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_drums2-jpg-640.webp",
+        "bytes": 52668
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat_drums2-jpg-960.webp",
+        "bytes": 101106
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat_drums2-jpg-1440.webp",
+        "bytes": 193614
+      }
+    ]
+  },
+  "/images/grauwekat_gitaar.jpg": {
+    "width": 2048,
+    "height": 1536,
+    "sha256": "4a85f0a2c8047306116a4e513905c813e3b7ebf45ed0d2f58bc8f46297555837",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_gitaar-jpg-320.webp",
+        "bytes": 13794
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_gitaar-jpg-640.webp",
+        "bytes": 40270
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat_gitaar-jpg-960.webp",
+        "bytes": 86454
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat_gitaar-jpg-1440.webp",
+        "bytes": 171312
+      }
+    ]
+  },
+  "/images/grauwekat_pauze.jpg": {
+    "width": 2048,
+    "height": 1536,
+    "sha256": "dc1b600bc14cbfcb450f62c70e22258be0c2eccbe88d9589fb8fa61b5ac6e7cc",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_pauze-jpg-320.webp",
+        "bytes": 16764
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_pauze-jpg-640.webp",
+        "bytes": 51340
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat_pauze-jpg-960.webp",
+        "bytes": 99140
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat_pauze-jpg-1440.webp",
+        "bytes": 178464
+      }
+    ]
+  },
+  "/images/grauwekat_snoek.jpg": {
+    "width": 2048,
+    "height": 1536,
+    "sha256": "c47a2136f4971ea44c51f21effb9c918cd750be7f89a905c0a132ba311e3382b",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_snoek-jpg-320.webp",
+        "bytes": 23564
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_snoek-jpg-640.webp",
+        "bytes": 91652
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat_snoek-jpg-960.webp",
+        "bytes": 208214
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat_snoek-jpg-1440.webp",
+        "bytes": 431652
+      }
+    ]
+  },
+  "/images/grauwekat_studio.jpg": {
+    "width": 8194,
+    "height": 3814,
+    "sha256": "19d646a7a40efd3d259ba5435101dbfce4e8a02603582e612b2c3156a5c60a40",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_studio-jpg-320.webp",
+        "bytes": 10694
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_studio-jpg-640.webp",
+        "bytes": 31284
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat_studio-jpg-960.webp",
+        "bytes": 61996
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat_studio-jpg-1440.webp",
+        "bytes": 118340
+      }
+    ]
+  },
+  "/images/grauwekat_zang.jpg": {
+    "width": 2664,
+    "height": 1988,
+    "sha256": "094494f66c28479415541ffa597029d3b6e20897080cdee908d7eeb3397e9019",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/grauwekat_zang-jpg-320.webp",
+        "bytes": 14256
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/grauwekat_zang-jpg-640.webp",
+        "bytes": 42582
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/grauwekat_zang-jpg-960.webp",
+        "bytes": 75944
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/grauwekat_zang-jpg-1440.webp",
+        "bytes": 132916
+      }
+    ]
+  },
+  "/images/jaap.jpeg": {
+    "width": 946,
+    "height": 2048,
+    "sha256": "4a8dee50defd60c948f648c50f6b8116b8e079b446a743bb778fafdb85098ab3",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/jaap-jpeg-320.webp",
+        "bytes": 17588
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/jaap-jpeg-640.webp",
+        "bytes": 37046
+      },
+      {
+        "width": 946,
+        "url": "/images/optimized/jaap-jpeg-946.webp",
+        "bytes": 59366
+      }
+    ]
+  },
+  "/images/joost.jpeg": {
+    "width": 946,
+    "height": 2048,
+    "sha256": "b80f673b02578a0f30f4b688b9d9d271cc8b04bfeb40a666f4e2db79b5195b24",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/joost-jpeg-320.webp",
+        "bytes": 10762
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/joost-jpeg-640.webp",
+        "bytes": 22340
+      },
+      {
+        "width": 946,
+        "url": "/images/optimized/joost-jpeg-946.webp",
+        "bytes": 36826
+      }
+    ]
+  },
+  "/images/lissabon_amsterdam.jpeg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "18e1cf826e319e4a05526b8d2ebb9a2920ecee5b361d9978b1579c4a4a0a1d1a",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_amsterdam-jpeg-320.webp",
+        "bytes": 25744
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_amsterdam-jpeg-640.webp",
+        "bytes": 88084
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_amsterdam-jpeg-960.webp",
+        "bytes": 178398
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/lissabon_amsterdam-jpeg-1200.webp",
+        "bytes": 270316
+      }
+    ]
+  },
+  "/images/lissabon_bd4.jpeg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "939876dce3b2681e79cc431e7183370fa9f5fed4d6160e38d4bf6a580a887635",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_bd4-jpeg-320.webp",
+        "bytes": 24636
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_bd4-jpeg-640.webp",
+        "bytes": 88858
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_bd4-jpeg-960.webp",
+        "bytes": 177488
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/lissabon_bd4-jpeg-1200.webp",
+        "bytes": 256772
+      }
+    ]
+  },
+  "/images/lissabon_bijl.jpeg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "a4ee16d8970d714d87c3cd7f4e2e7ce9aa87823c064b633d7c0b2f6be8578e61",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_bijl-jpeg-320.webp",
+        "bytes": 17076
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_bijl-jpeg-640.webp",
+        "bytes": 47252
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_bijl-jpeg-960.webp",
+        "bytes": 83446
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/lissabon_bijl-jpeg-1200.webp",
+        "bytes": 118546
+      }
+    ]
+  },
+  "/images/lissabon_dessert.jpeg": {
+    "width": 1536,
+    "height": 2048,
+    "sha256": "1fa50dc2abf1050b2f8a72315bab7d31d6f348aa655907b560e70197956539ed",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_dessert-jpeg-320.webp",
+        "bytes": 18312
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_dessert-jpeg-640.webp",
+        "bytes": 48576
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_dessert-jpeg-960.webp",
+        "bytes": 81216
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/lissabon_dessert-jpeg-1440.webp",
+        "bytes": 136490
+      }
+    ]
+  },
+  "/images/lissabon_lisboa.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "acc84ee5ae1c4bbb23ed986f78560fae5ecac139d83984bfe2b9b041c4a9d7be",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_lisboa-jpeg-320.webp",
+        "bytes": 14900
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_lisboa-jpeg-640.webp",
+        "bytes": 55374
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_lisboa-jpeg-960.webp",
+        "bytes": 121788
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/lissabon_lisboa-jpeg-1440.webp",
+        "bytes": 255718
+      }
+    ]
+  },
+  "/images/lissabon_minibier.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "f27994b2b73f1a05010d389603c797fa6a4f73f6115b41a6ea97a5645d099d72",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_minibier-jpeg-320.webp",
+        "bytes": 13630
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_minibier-jpeg-640.webp",
+        "bytes": 36460
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_minibier-jpeg-960.webp",
+        "bytes": 65502
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/lissabon_minibier-jpeg-1440.webp",
+        "bytes": 120732
+      }
+    ]
+  },
+  "/images/lissabon_ontbijt.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "22e0bd0373f657248457cb502bc6c994564ef5fc37e400ba116f5127e3c1d0ac",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_ontbijt-jpeg-320.webp",
+        "bytes": 23674
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_ontbijt-jpeg-640.webp",
+        "bytes": 81418
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_ontbijt-jpeg-960.webp",
+        "bytes": 160888
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/lissabon_ontbijt-jpeg-1440.webp",
+        "bytes": 298316
+      }
+    ]
+  },
+  "/images/lissabon_tram.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "1b4e2c01319117e4736205c8396cfa306e650ab5775fbd5d6fe3df58f572f969",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_tram-jpeg-320.webp",
+        "bytes": 18254
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_tram-jpeg-640.webp",
+        "bytes": 59860
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_tram-jpeg-960.webp",
+        "bytes": 110138
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/lissabon_tram-jpeg-1440.webp",
+        "bytes": 196388
+      }
+    ]
+  },
+  "/images/lissabon_vis.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "322ee59822683ae3cc6fb18273c72d89486d2237e5bc4fdf4d87c7040ff1d1fa",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/lissabon_vis-jpeg-320.webp",
+        "bytes": 19130
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/lissabon_vis-jpeg-640.webp",
+        "bytes": 55024
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/lissabon_vis-jpeg-960.webp",
+        "bytes": 92896
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/lissabon_vis-jpeg-1440.webp",
+        "bytes": 150480
+      }
+    ]
+  },
+  "/images/logo.jpg": {
+    "width": 600,
+    "height": 563,
+    "sha256": "5a9e8e63c17b2a5f78eac16cd4386ffcc5db3f460c4706e10fbaed6bff6176c6",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/logo-jpg-320.webp",
+        "bytes": 11112
+      },
+      {
+        "width": 600,
+        "url": "/images/optimized/logo-jpg-600.webp",
+        "bytes": 27336
+      }
+    ]
+  },
+  "/images/logoblaauw.jpg": {
+    "width": 850,
+    "height": 850,
+    "sha256": "00bdbf4d5c8d3ca2a9464617d2b57f686b6770f98b49b2d0e3bc4eeeb2d0f897",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/logoblaauw-jpg-320.webp",
+        "bytes": 11878
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/logoblaauw-jpg-640.webp",
+        "bytes": 27888
+      },
+      {
+        "width": 850,
+        "url": "/images/optimized/logoblaauw-jpg-850.webp",
+        "bytes": 39544
+      }
+    ]
+  },
+  "/images/logovierkant.jpeg": {
+    "width": 850,
+    "height": 850,
+    "sha256": "5ccdab6372439b892eec90826c935c6e2d485c9789e162bcf5cad435c9e459cd",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/logovierkant-jpeg-320.webp",
+        "bytes": 12572
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/logovierkant-jpeg-640.webp",
+        "bytes": 30364
+      },
+      {
+        "width": 850,
+        "url": "/images/optimized/logovierkant-jpeg-850.webp",
+        "bytes": 45258
+      }
+    ]
+  },
+  "/images/opperdoes.jpg": {
+    "width": 659,
+    "height": 400,
+    "sha256": "3bebfeeda70c700f746ec4a99ba0d25b185d51cf3915827afaac207c2e9aeaac",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/opperdoes-jpg-320.webp",
+        "bytes": 16060
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/opperdoes-jpg-640.webp",
+        "bytes": 53376
+      },
+      {
+        "width": 659,
+        "url": "/images/optimized/opperdoes-jpg-659.webp",
+        "bytes": 54782
+      }
+    ]
+  },
+  "/images/schreeuwende_snaren.jpeg": {
+    "width": 2048,
+    "height": 2048,
+    "sha256": "cd3ed0157527ecf6fef3b3003a7b2bd126711c1ecf22397f166ec4d59ecab924",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/schreeuwende_snaren-jpeg-320.webp",
+        "bytes": 17120
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/schreeuwende_snaren-jpeg-640.webp",
+        "bytes": 46680
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/schreeuwende_snaren-jpeg-960.webp",
+        "bytes": 85802
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/schreeuwende_snaren-jpeg-1440.webp",
+        "bytes": 157198
+      }
+    ]
+  },
+  "/images/spotify20231028.jpg": {
+    "width": 1088,
+    "height": 508,
+    "sha256": "3dae3a7a11c8f5df50c95e662ca10fcbed32462a787a0e3d5d2e454f515cbb88",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/spotify20231028-jpg-320.webp",
+        "bytes": 4660
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/spotify20231028-jpg-640.webp",
+        "bytes": 11116
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/spotify20231028-jpg-960.webp",
+        "bytes": 18868
+      },
+      {
+        "width": 1088,
+        "url": "/images/optimized/spotify20231028-jpg-1088.webp",
+        "bytes": 21598
+      }
+    ]
+  },
+  "/images/subtiel1.jpg": {
+    "width": 1104,
+    "height": 405,
+    "sha256": "895157c4e3b513e67440d5b62ac5b2f0165ddf46e6c84bc2bd317dd35e5376d0",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/subtiel1-jpg-320.webp",
+        "bytes": 7904
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/subtiel1-jpg-640.webp",
+        "bytes": 25376
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/subtiel1-jpg-960.webp",
+        "bytes": 51746
+      },
+      {
+        "width": 1104,
+        "url": "/images/optimized/subtiel1-jpg-1104.webp",
+        "bytes": 66092
+      }
+    ]
+  },
+  "/images/subtiel2.jpg": {
+    "width": 1108,
+    "height": 405,
+    "sha256": "55442714c445481eb54afc4d769c7734840fb621fe284f6524cc35694dcce216",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/subtiel2-jpg-320.webp",
+        "bytes": 8174
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/subtiel2-jpg-640.webp",
+        "bytes": 29180
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/subtiel2-jpg-960.webp",
+        "bytes": 64284
+      },
+      {
+        "width": 1108,
+        "url": "/images/optimized/subtiel2-jpg-1108.webp",
+        "bytes": 84220
+      }
+    ]
+  },
+  "/images/valencia_bol.jpeg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "fb359faadc4a16da671126e66fae4fed0e88626eb4f2acde08c49e782c93b79b",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/valencia_bol-jpeg-320.webp",
+        "bytes": 10132
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/valencia_bol-jpeg-640.webp",
+        "bytes": 40834
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/valencia_bol-jpeg-960.webp",
+        "bytes": 88782
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/valencia_bol-jpeg-1200.webp",
+        "bytes": 139222
+      }
+    ]
+  },
+  "/images/valencia_bolt.jpeg": {
+    "width": 1200,
+    "height": 1599,
+    "sha256": "c5e5a3f625c356365cdf50ab2a94018ce19ae72e85e79b4acbd48762658f85e8",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/valencia_bolt-jpeg-320.webp",
+        "bytes": 19790
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/valencia_bolt-jpeg-640.webp",
+        "bytes": 75726
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/valencia_bolt-jpeg-960.webp",
+        "bytes": 147082
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/valencia_bolt-jpeg-1200.webp",
+        "bytes": 212892
+      }
+    ]
+  },
+  "/images/valencia_dak.jpeg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "0edfab1afbd51a585f1f34fc42d4f3d526d22b2e942fab5fda51932b6631bb8f",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/valencia_dak-jpeg-320.webp",
+        "bytes": 41788
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/valencia_dak-jpeg-640.webp",
+        "bytes": 141990
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/valencia_dak-jpeg-960.webp",
+        "bytes": 269004
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/valencia_dak-jpeg-1200.webp",
+        "bytes": 383632
+      }
+    ]
+  },
+  "/images/valencia_maan.jpeg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "f6d4243070e942df0f5796bb2686a891191e5cc9ed87619033a4a9c528704405",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/valencia_maan-jpeg-320.webp",
+        "bytes": 28788
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/valencia_maan-jpeg-640.webp",
+        "bytes": 110542
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/valencia_maan-jpeg-960.webp",
+        "bytes": 229498
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/valencia_maan-jpeg-1200.webp",
+        "bytes": 339712
+      }
+    ]
+  },
+  "/images/valencia_paella.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "34f5deb0c949438bece7f1beff8251623fbe0e35068c5e22e4ad725c409d0255",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/valencia_paella-jpeg-320.webp",
+        "bytes": 22070
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/valencia_paella-jpeg-640.webp",
+        "bytes": 73208
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/valencia_paella-jpeg-960.webp",
+        "bytes": 140344
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/valencia_paella-jpeg-1440.webp",
+        "bytes": 256502
+      }
+    ]
+  },
+  "/images/verified.png": {
+    "width": 16,
+    "height": 16,
+    "sha256": "de20038ec73023c04e275c9663703b11d68b919f886b9c7da9eb93754c6dfe4c",
+    "variants": []
+  },
+  "/images/wilko.jpeg": {
+    "width": 1948,
+    "height": 2369,
+    "sha256": "88e431551c40d2133266d4ce91ee7be050fb686210462bd040aacec0b8ad6579",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/wilko-jpeg-320.webp",
+        "bytes": 18876
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/wilko-jpeg-640.webp",
+        "bytes": 50010
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/wilko-jpeg-960.webp",
+        "bytes": 86910
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/wilko-jpeg-1440.webp",
+        "bytes": 155840
+      }
+    ]
+  },
+  "/images/wilko.png": {
+    "width": 550,
+    "height": 668,
+    "sha256": "09c8af7919ac99395e9f57a6b0f611873cd10885373abbe166cfc40cb1f2a819",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/wilko-png-320.webp",
+        "bytes": 86504
+      },
+      {
+        "width": 550,
+        "url": "/images/optimized/wilko-png-550.webp",
+        "bytes": 229978
+      }
+    ]
+  }
+}

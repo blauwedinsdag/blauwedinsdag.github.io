@@ -9,24 +9,10 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {%- assign category_posts = site.categories['museum'] -%}
+  {%- if category_posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Berichten uit een ver verleden" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.categories['museum'] -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-            {{ post.content | split: site.excerpt_separator | first }} <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">Lees meer...</a>        
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    {% include post-list.html posts=category_posts heading_level=3 %}
   {%- endif -%}
 
 </div>

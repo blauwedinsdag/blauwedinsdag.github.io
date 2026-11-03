@@ -6,27 +6,13 @@ layout: default
   <h1 class="visually-hidden">{{ site.title | escape }}</h1>
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {%- assign category_posts = site.categories['nieuws'] -%}
+  {%- if category_posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Laatste berichten" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.categories['nieuws'] limit:2 -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-            {{ post.content | split: site.excerpt_separator | first }} <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">Lees meer...</a>        
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    {% include post-list.html posts=category_posts heading_level=3 limit=2 %}
 
 
-    <p><a href="nieuws.html">Meer berichten</a></p>
+    <p><a href="{{ '/nieuws.html' | relative_url }}">Meer berichten</a></p>
   {%- endif -%}
 
 </div>

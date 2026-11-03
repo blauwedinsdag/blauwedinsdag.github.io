@@ -2,30 +2,16 @@
 layout: default
 ---
 
-<div class="niews">
+<div class="nieuws">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in site.categories['nieuws'] -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h2>
-        {%- if site.show_excerpts -%}
-            {{ post.content | split: site.excerpt_separator | first }} <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">Lees meer...</a>        
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+  {%- assign category_posts = site.categories['nieuws'] -%}
+  {%- if category_posts.size > 0 -%}
+    {% include post-list.html posts=category_posts heading_level=2 %}
 
     <p class="rss-subscribe">Verzekert u van een stroom nieuws <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}

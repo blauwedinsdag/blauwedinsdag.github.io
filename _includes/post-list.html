@@ -1,0 +1,17 @@
+{%- assign heading_level = include.heading_level | default: 3 -%}
+{%- assign post_limit = include.limit | default: include.posts.size -%}
+<ul class="post-list">
+  {%- for post in include.posts limit:post_limit -%}
+  <li>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+    <h{{ heading_level }}>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </h{{ heading_level }}>
+    {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+      <p><a class="read-more" href="{{ post.url | relative_url }}" aria-label="Lees meer over {{ post.title | escape }}">Lees meer...</a></p>
+    {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>

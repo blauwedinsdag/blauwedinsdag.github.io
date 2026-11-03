@@ -1,0 +1,21 @@
+{
+  "name": "blauwe-dinsdag-site-checks",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "images": "node scripts/optimize-images.mjs",
+    "check": "ruby scripts/check-yaml.rb && node scripts/check-html.mjs && python3 scripts/check-site.py",
+    "test": "PLAYWRIGHT_BROWSERS_PATH=vendor/playwright playwright test",
+    "check:external": "python3 scripts/check-external-links.py",
+    "browsers": "PLAYWRIGHT_BROWSERS_PATH=vendor/playwright playwright install chromium"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.64.1",
+    "html-validate": "11.18.0",
+    "sharp": "0.35.5"
+  }
+}

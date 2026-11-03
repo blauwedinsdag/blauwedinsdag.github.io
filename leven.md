@@ -6,7 +6,7 @@ title: Leven
 
 Blauwe Dinsdag is een Amsterdamse rockband die met 100% hobbieambitie liedjes over de liefde maakt. 
 
-<img src="images/100foto.jpg" alt="Blauwe Dinsdag tijdens een optreden in de jaren negentig" width="721" height="255" style="height: auto;" />
+{% include image.html src="/images/100foto.jpg" alt="Blauwe Dinsdag tijdens een optreden in de jaren negentig" %}
  
 Blauwe Dinsdag werd in 1991 opgericht door Derrick Merkus (drums en achtergrondzang), Edo Kulkens (gitaar), Jaap Abbring (gitaar), Joost  Siegman (bas en zang), Wilko Bolt (gitaar) en Arno Lubrun (soort toetseninstrument). Al snel maakte Wilko promotie tot manager, hoogleraar betalingsverkeer, technicus, distributeur, reisleider, foerageur en diëtist en ging Arno op zoek naar een functie elders. 
 
@@ -16,7 +16,7 @@ Blauwe Dinsdag [speelde op vage feestjes en in dito clubs]({% link podia.md %}),
 
 Blauwe Dinsdag gaat al dik drie decennia bijna elk jaar een paar dagen op vakantie naar een cultureel verantwoorde bestemming. In dat kader [bezocht BD in november 2023 de bakermat van de westerse beschaving]({% post_url 2023-11-20-blauwe-dinsdag-bezoekt-athene-om-spotifyaanbod-op-te-kalefateren %}), Athene, en [in november 2024 het thuis van de paella]({% post_url 2024-12-01-blauwe-dinsdag-bereidt-lancering-naar-de-maan-voor %}), Valencia
 
- <img src="images/wilko.png" alt="Wilko Bolt, manager van Blauwe Dinsdag" width="550" height="668" style="width: 24%; height: auto;" />
+ {% include image.html src="/images/wilko.png" alt="Wilko Bolt, manager van Blauwe Dinsdag" class="manager-portrait" sizes="(max-width: 600px) 40vw, 178px" %}
 
 Wilko Bolt
 

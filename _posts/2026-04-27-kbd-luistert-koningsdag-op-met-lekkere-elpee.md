@@ -11,7 +11,7 @@ De Koninklijke Blauwe Dinsdag heeft de sluizen opengezet voor een stroom ongeken
 "ALLE 13 GOED! De hits van nu!", is nu [officieel beschikbaar via Spotify]({% link liedjes.md %}) voor hulp bij liefdesperikelen en feestdrang. 
 
 <div class="media-group">
-  <img src="{% link images/schreeuwende_snaren.jpeg %}" alt="Albumhoes van Schreeuwende Snaren" width="2048" height="2048" style="width: 99%; height: auto;" />
+  {% include image.html src="/images/schreeuwende_snaren.jpeg" alt="Albumhoes van Schreeuwende Snaren" %}
 </div>
 
 KBD moet u helaas waarschuwen voor het liedje "Altijd Vooruit", dat het randje lijkt over te gaan en dan ook terecht een standje (E!) van de KI van Spotify heeft gekregen.
