@@ -15,7 +15,7 @@ bundle _2.4.17_ check
 printf '\033]0;Blauwe Dinsdag Preview\007'
 printf 'Starting Blauwe Dinsdag preview. Press Control+C here to stop.\n'
 
-bundle _2.4.17_ exec jekyll serve --host 127.0.0.1 --port 4000 --livereload &
+bundle _2.4.17_ exec jekyll serve --future --host 127.0.0.1 --port 4000 --livereload &
 server_pid=$!
 opener_pid=""
 cleanup() {

@@ -12,6 +12,8 @@ Keep Terminal open while previewing. Press **Control+C** in the preview's
 Terminal window to stop. Content changes rebuild automatically with live reload;
 restart the preview after changing `_config.yml`.
 
+The local preview includes future-dated posts so you can review them before publication.
+
 To launch directly from this folder:
 
 ```sh

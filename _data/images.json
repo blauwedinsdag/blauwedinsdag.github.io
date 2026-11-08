@@ -1290,6 +1290,465 @@
       }
     ]
   },
+  "/images/marseille_fruitsdemer.jpeg": {
+    "width": 5120,
+    "height": 3840,
+    "sha256": "8472a15185a74c0982d27801c063dd3cabf86e98dd160325e7a05d84eb83f3ae",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_fruitsdemer-jpeg-320.webp",
+        "bytes": 18490
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_fruitsdemer-jpeg-640.webp",
+        "bytes": 55616
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_fruitsdemer-jpeg-960.webp",
+        "bytes": 101952
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_fruitsdemer-jpeg-1440.webp",
+        "bytes": 196138
+      }
+    ]
+  },
+  "/images/marseille_halloween.jpeg": {
+    "width": 3840,
+    "height": 5120,
+    "sha256": "08779900cda3ea6b53f045f9445092fe99841272553e04a51749bee07d047edb",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_halloween-jpeg-320.webp",
+        "bytes": 33032
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_halloween-jpeg-640.webp",
+        "bytes": 117048
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_halloween-jpeg-960.webp",
+        "bytes": 252138
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_halloween-jpeg-1440.webp",
+        "bytes": 500020
+      }
+    ]
+  },
+  "/images/marseille_lecorbusierbd5.jpeg": {
+    "width": 1200,
+    "height": 1599,
+    "sha256": "8554839e62644c022b816923ca9cf88dab8badd4d013474fce548ed7637f7d09",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_lecorbusierbd5-jpeg-320.webp",
+        "bytes": 29850
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_lecorbusierbd5-jpeg-640.webp",
+        "bytes": 101808
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_lecorbusierbd5-jpeg-960.webp",
+        "bytes": 197562
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/marseille_lecorbusierbd5-jpeg-1200.webp",
+        "bytes": 278890
+      }
+    ]
+  },
+  "/images/marseille_lecorbusierbinnen0.jpeg": {
+    "width": 1536,
+    "height": 2048,
+    "sha256": "78d5ce48497b9c6fdc60a218bd88408535313376e0787601eba57e97a4224451",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_lecorbusierbinnen0-jpeg-320.webp",
+        "bytes": 25404
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_lecorbusierbinnen0-jpeg-640.webp",
+        "bytes": 81392
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_lecorbusierbinnen0-jpeg-960.webp",
+        "bytes": 160636
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_lecorbusierbinnen0-jpeg-1440.webp",
+        "bytes": 297700
+      }
+    ]
+  },
+  "/images/marseille_lecorbusierbinnen1.jpeg": {
+    "width": 1152,
+    "height": 2048,
+    "sha256": "bfe38004f03c59e631744913a40cad06148092a428348f454d2e095aa4b7ed67",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_lecorbusierbinnen1-jpeg-320.webp",
+        "bytes": 15870
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_lecorbusierbinnen1-jpeg-640.webp",
+        "bytes": 48882
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_lecorbusierbinnen1-jpeg-960.webp",
+        "bytes": 87566
+      },
+      {
+        "width": 1152,
+        "url": "/images/optimized/marseille_lecorbusierbinnen1-jpeg-1152.webp",
+        "bytes": 113100
+      }
+    ]
+  },
+  "/images/marseille_lecorbusierbinnen2.jpeg": {
+    "width": 1152,
+    "height": 2048,
+    "sha256": "2bedef6b05329ae7fad49460ce7d1411a457c3e8eafa917ebb6bfd2df808e8dd",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_lecorbusierbinnen2-jpeg-320.webp",
+        "bytes": 25002
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_lecorbusierbinnen2-jpeg-640.webp",
+        "bytes": 82476
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_lecorbusierbinnen2-jpeg-960.webp",
+        "bytes": 152158
+      },
+      {
+        "width": 1152,
+        "url": "/images/optimized/marseille_lecorbusierbinnen2-jpeg-1152.webp",
+        "bytes": 197558
+      }
+    ]
+  },
+  "/images/marseille_lecorbusiercygnus.jpeg": {
+    "width": 2048,
+    "height": 1536,
+    "sha256": "7b5ff9f31eab97ea313dcc4003cdaffe039def0b2142de921262fffb170d0e56",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_lecorbusiercygnus-jpeg-320.webp",
+        "bytes": 19926
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_lecorbusiercygnus-jpeg-640.webp",
+        "bytes": 76676
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_lecorbusiercygnus-jpeg-960.webp",
+        "bytes": 169510
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_lecorbusiercygnus-jpeg-1440.webp",
+        "bytes": 343910
+      }
+    ]
+  },
+  "/images/marseille_mab.jpeg": {
+    "width": 1513,
+    "height": 2048,
+    "sha256": "ee5ad76b5566b8569d62e5cf0c1b5f5f5e8e4a2e22d6a132eb6f048a1af18fa9",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_mab-jpeg-320.webp",
+        "bytes": 22272
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_mab-jpeg-640.webp",
+        "bytes": 61168
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_mab-jpeg-960.webp",
+        "bytes": 105830
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_mab-jpeg-1440.webp",
+        "bytes": 182766
+      }
+    ]
+  },
+  "/images/marseille_mucem.jpeg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "7fbd97e94c3e9c6d430d65a18eb74f694c57c3827ffc5057c4f455ab35cdd697",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_mucem-jpeg-320.webp",
+        "bytes": 38066
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_mucem-jpeg-640.webp",
+        "bytes": 119610
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_mucem-jpeg-960.webp",
+        "bytes": 227644
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/marseille_mucem-jpeg-1200.webp",
+        "bytes": 325406
+      }
+    ]
+  },
+  "/images/marseille_panier.jpeg": {
+    "width": 1200,
+    "height": 1600,
+    "sha256": "34ac641ef5506944282d72b20d52420ea99266111341c770abd6d46264eecc53",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_panier-jpeg-320.webp",
+        "bytes": 33872
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_panier-jpeg-640.webp",
+        "bytes": 131940
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_panier-jpeg-960.webp",
+        "bytes": 282004
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/marseille_panier-jpeg-1200.webp",
+        "bytes": 423422
+      }
+    ]
+  },
+  "/images/marseille_rad.jpeg": {
+    "width": 1600,
+    "height": 1200,
+    "sha256": "ca6085edba6c9b57ae655e19871dc82a864d4315133b841cfa55ced2dd427b63",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_rad-jpeg-320.webp",
+        "bytes": 19166
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_rad-jpeg-640.webp",
+        "bytes": 64684
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_rad-jpeg-960.webp",
+        "bytes": 120622
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_rad-jpeg-1440.webp",
+        "bytes": 220082
+      }
+    ]
+  },
+  "/images/marseille_raddeja.jpeg": {
+    "width": 4896,
+    "height": 3672,
+    "sha256": "503e8e9aa607a374ef53cc922ac82da1dfe08228aa8b07bd36b64fa21ec2a5f2",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_raddeja-jpeg-320.webp",
+        "bytes": 10706
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_raddeja-jpeg-640.webp",
+        "bytes": 28632
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_raddeja-jpeg-960.webp",
+        "bytes": 47808
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_raddeja-jpeg-1440.webp",
+        "bytes": 83830
+      }
+    ]
+  },
+  "/images/marseille_radedwijo.jpeg": {
+    "width": 5120,
+    "height": 3840,
+    "sha256": "05d9b9c8e4fa1e64681d1bae6a74cc60ba4e22d2da5a312b5d69fb5466993c8b",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_radedwijo-jpeg-320.webp",
+        "bytes": 13518
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_radedwijo-jpeg-640.webp",
+        "bytes": 39048
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_radedwijo-jpeg-960.webp",
+        "bytes": 69626
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_radedwijo-jpeg-1440.webp",
+        "bytes": 140744
+      }
+    ]
+  },
+  "/images/marseille_spaanplaat.jpeg": {
+    "width": 2048,
+    "height": 1536,
+    "sha256": "d9ff0f99c88b5640a93c18e19d9b6014c3492caa28a8189b8425b373c316cbef",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_spaanplaat-jpeg-320.webp",
+        "bytes": 18574
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_spaanplaat-jpeg-640.webp",
+        "bytes": 69142
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_spaanplaat-jpeg-960.webp",
+        "bytes": 153124
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_spaanplaat-jpeg-1440.webp",
+        "bytes": 330802
+      }
+    ]
+  },
+  "/images/marseille_strand.jpeg": {
+    "width": 4896,
+    "height": 3672,
+    "sha256": "54137eb9ea7df2610ed2adac252206357be123e4894cbbe2824f461fa78bbf9e",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_strand-jpeg-320.webp",
+        "bytes": 15058
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_strand-jpeg-640.webp",
+        "bytes": 43020
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_strand-jpeg-960.webp",
+        "bytes": 80478
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_strand-jpeg-1440.webp",
+        "bytes": 158456
+      }
+    ]
+  },
+  "/images/marseille_trein.jpeg": {
+    "width": 2048,
+    "height": 1152,
+    "sha256": "7466211368cdbf2543fa21bc237ad8fa6fd7733ba9f788eea087731ecdaa2bf5",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_trein-jpeg-320.webp",
+        "bytes": 10818
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_trein-jpeg-640.webp",
+        "bytes": 32716
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_trein-jpeg-960.webp",
+        "bytes": 67052
+      },
+      {
+        "width": 1440,
+        "url": "/images/optimized/marseille_trein-jpeg-1440.webp",
+        "bytes": 124594
+      }
+    ]
+  },
+  "/images/marseille_treinwilko.jpeg": {
+    "width": 1200,
+    "height": 1599,
+    "sha256": "0264ac0ee4b797f5b08a72feef235dca3ea0eb56dc314314bedfa4a2ef80b885",
+    "variants": [
+      {
+        "width": 320,
+        "url": "/images/optimized/marseille_treinwilko-jpeg-320.webp",
+        "bytes": 19508
+      },
+      {
+        "width": 640,
+        "url": "/images/optimized/marseille_treinwilko-jpeg-640.webp",
+        "bytes": 68894
+      },
+      {
+        "width": 960,
+        "url": "/images/optimized/marseille_treinwilko-jpeg-960.webp",
+        "bytes": 135538
+      },
+      {
+        "width": 1200,
+        "url": "/images/optimized/marseille_treinwilko-jpeg-1200.webp",
+        "bytes": 202994
+      }
+    ]
+  },
   "/images/opperdoes.jpg": {
     "width": 659,
     "height": 400,
