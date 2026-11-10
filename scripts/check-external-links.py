@@ -32,18 +32,31 @@ def check(url):
         try:
             request = Request(url, method=method, headers={"User-Agent": "BlauweDinsdag-LinkCheck/1.0"})
             with urlopen(request, timeout=12) as response:
-                return url, None
+                return url, None, False
         except HTTPError as error:
             if method == "HEAD":
                 continue
-            return url, f"HTTP {error.code} (may be bot protection)"
+            needs_review = error.code in (401, 403, 429)
+            reason = f"HTTP {error.code}"
+            if needs_review:
+                reason += " (access denied or rate limited; review manually)"
+            return url, reason, needs_review
         except (URLError, TimeoutError, OSError) as error:
-            return url, str(error)
+            return url, str(error), False
 
 
 with ThreadPoolExecutor(max_workers=4) as executor:
-    failures = [(url, reason) for url, reason in executor.map(check, sorted(urls)) if reason]
-for url, reason in failures:
-    print(f"{reason}: {url}")
-print(f"Checked {len(urls)} external links; {len(failures)} need review.")
+    results = list(executor.map(check, sorted(urls)))
+failures = [(url, reason) for url, reason, review in results if reason and not review]
+reviews = [(url, reason) for url, reason, review in results if review]
+for level, findings in (("error", failures), ("warning", reviews)):
+    for url, reason in findings:
+        message = f"{reason}: {url}"
+        if os.environ.get("GITHUB_ACTIONS") == "true":
+            # Escape workflow-command data, including text from remote servers.
+            message = message.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+            print(f"::{level}::{message}")
+        else:
+            print(f"{level}: {message}")
+print(f"Checked {len(urls)} external links; {len(failures)} failed; {len(reviews)} need manual review.")
 sys.exit(bool(failures))

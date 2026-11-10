@@ -61,6 +61,9 @@ files and `_data/images.json` when updating images. Do not commit `_site/`,
 The separate **External link report** workflow checks public outbound links
 weekly and on demand. Network failures or bot protection may need manual review;
 these reports do not block publication.
+HTTP 401/403 (access denied) and 429 (rate limiting) produce review warnings
+without failing the report, since they cannot establish whether a link is broken.
+Other HTTP errors and network failures still fail the report.
 
 ## Run the checks locally
 
