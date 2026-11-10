@@ -42,7 +42,7 @@ def check(url):
                 reason += " (access denied or rate limited; review manually)"
             return url, reason, needs_review
         except (URLError, TimeoutError, OSError) as error:
-            return url, str(error), False
+            return url, f"{error} (network check inconclusive; review manually)", True
 
 
 with ThreadPoolExecutor(max_workers=4) as executor:

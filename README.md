@@ -63,7 +63,8 @@ weekly and on demand. Network failures or bot protection may need manual review;
 these reports do not block publication.
 HTTP 401/403 (access denied) and 429 (rate limiting) produce review warnings
 without failing the report, since they cannot establish whether a link is broken.
-Other HTTP errors and network failures still fail the report.
+Network failures also produce review warnings because the destination could not
+be checked. Other HTTP errors still fail the report.
 
 ## Run the checks locally
 
